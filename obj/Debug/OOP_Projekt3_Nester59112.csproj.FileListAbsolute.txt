@@ -1,0 +1,33 @@
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.exe.config
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.exe
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.pdb
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.AssemblyReference.cache
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.Properties.Resources.resources
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.GenerateResource.cache
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.CoreCompileInputs.cache
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.exe
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.pdb
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.FormMenu.resources
+C:\Users\retro\source\repos\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.FormBrylyReguralne.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.exe.config
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.exe
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.pdb
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.AssemblyReference.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.FormMenu.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.FormBrylyReguralne.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.Properties.Resources.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.GenerateResource.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.CoreCompileInputs.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.exe
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.pdb
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.exe.config
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.exe
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\bin\Debug\OOP_Projekt3_Nester59112.pdb
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.AssemblyReference.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.FormMenu.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.FormBrylyReguralne.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.Properties.Resources.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.GenerateResource.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.csproj.CoreCompileInputs.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.exe
+C:\Users\retro\OneDrive\Рабочий стол\OOP\OOP_Projekt3_Nester59112\obj\Debug\OOP_Projekt3_Nester59112.pdb

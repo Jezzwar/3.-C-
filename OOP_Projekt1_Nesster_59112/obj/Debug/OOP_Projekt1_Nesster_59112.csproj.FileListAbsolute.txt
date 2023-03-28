@@ -1,0 +1,20 @@
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\bin\Debug\OOP_Projekt1_Nesster_59112.exe.config
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\bin\Debug\OOP_Projekt1_Nesster_59112.exe
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\bin\Debug\OOP_Projekt1_Nesster_59112.pdb
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.csproj.AssemblyReference.cache
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.Properties.Resources.resources
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.csproj.GenerateResource.cache
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.csproj.CoreCompileInputs.cache
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.exe
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.pdb
+C:\vistula\wpr do opr\2 semestr\Projekt 1\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.Form_Projekt1.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\bin\Debug\OOP_Projekt1_Nesster_59112.exe.config
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\bin\Debug\OOP_Projekt1_Nesster_59112.exe
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\bin\Debug\OOP_Projekt1_Nesster_59112.pdb
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.csproj.AssemblyReference.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.Form_Projekt1.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.Properties.Resources.resources
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.csproj.GenerateResource.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.csproj.CoreCompileInputs.cache
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.exe
+C:\Users\retro\OneDrive\Рабочий стол\OOP_Projekt1_Nesster_59112\obj\Debug\OOP_Projekt1_Nesster_59112.pdb
